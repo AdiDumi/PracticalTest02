@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server">Server</string>
+    <string name="server_port">PORT</string>
+    <string name="connect">Start</string>
+    <string name="client">CLIENT</string>
+    <string name="get_value">GET VALUE</string>
+    <string name="client_address">ADRESA</string>
+    <string name="client_port">PORT</string>
+    <string-array name="valuta">
+        <item>EUR</item>
+        <item>USD</item>
+    </string-array>
+</resources>
